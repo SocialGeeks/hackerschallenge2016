@@ -14,3 +14,4 @@
 ```
   
 BL - B1n4ry L337n355  
+CM - Cryp70 M4dn355  
