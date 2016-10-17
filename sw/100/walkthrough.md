@@ -4,3 +4,4 @@
 - https://daniel.haxx.se/blog/2016/05/11/my-url-isnt-your-url/
 
 1. Use file:// URI to recover the key from /etc/passwd
+2. This also works using directory traversal. i.e. input "../../../../../../../../../etc/passwd
