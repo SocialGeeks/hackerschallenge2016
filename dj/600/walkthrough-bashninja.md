@@ -36,7 +36,7 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 SaintConBadge
 ```
 
-So I looked for something online that would work as well. I stumbled upon **foremost**
+So I looked for something online that would work instead. I stumbled upon **foremost**
 
 >Foremost is a forensic data recovery program for Linux used to recover files using their headers, footers, and data structures through a process known as file carving. Although written for law enforcement use, it is freely available and can be used as a general data recovery tool.
 ([Wikipedia](https://en.wikipedia.org/wiki/Foremost_(software)))
