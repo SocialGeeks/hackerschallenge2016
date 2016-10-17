@@ -5,7 +5,7 @@ So, I didn't actually solve this one during the competition, but I continued to 
 We started by being given a file `4ll4804rd` which we can tell is a hex dump of a binary.
 
 ```
-~/BL300# cat 4ll4804rd 
+~$ cat 4ll4804rd 
 00000000: 3a31 3030 3030 3030 3030 4339 3435 4430  :100000000C945D0
 00000010: 3030 4339 3438 3530 3030 4339 3438 3530  00C9485000C94850
 00000020: 3030 4339 3438 3530 3038 340d 0a3a 3130  00C94850084..:10
