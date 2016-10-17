@@ -19,6 +19,12 @@ Inspecting the file turns up a little more than just an image.  At the end of ev
 Extracting this extraneous data from offset `00020161` on into its own file and then running the `file` command confirms our suspicion.
 
 ```
+plum$ echo $[ 0x20161 ]
+131425
+plum$ dd if=flag of=flag_extra bs=1 skip=131425
+21041+0 records in
+21041+0 records out
+21041 bytes (21 kB, 21 KiB) copied, 0.0378559 s, 556 kB/s
 plum$ file flag_extra 
 flag_extra: ELF 32-bit LSB executable, ARM, EABI5 version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-armhf.so.3, for GNU/Linux 2.6.26, BuildID[sha1]=a55b3615f4979e28e73199eba4f42d28aef31eec, not stripped
 ```
