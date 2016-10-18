@@ -20,4 +20,4 @@ DJ - D0ubl3 J30p4rdy
 GB - 6r4b B46  
 PM - P4ck37 M0nk3y  
 PT - Pur5u175 7r1v14l  
-SW - 5p1d3rs W3b  
+SW - 5p1d3r5 W3b  
